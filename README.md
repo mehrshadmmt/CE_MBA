@@ -1,6 +1,7 @@
 # **Multi-Block Attention for Efficient Channel Estimation in IRS-Assisted mmWave MIMO**
 
 DOI: 10.1109/TCOMM.2025.3618696
+
 Published in: IEEE Transactions on Communications, 2025
 
 
@@ -19,8 +20,6 @@ Through selective IRS element deactivation and attention-guided feature enhancem
 	•	~51% lower NMSE at 10 dB SNR compared to leading baseline methods.
 	•	Low computational complexity with strong adaptability to diverse propagation environments.
 
-
-
 ## 🧠 **Key Features**
 	•	End-to-end deep learning framework for IRS channel estimation
 	•	Attention-based feature refinement and denoising
@@ -35,7 +34,7 @@ Through selective IRS element deactivation and attention-guided feature enhancem
 	•	CUDA-enabled GPU (recommended for training)
 
 
-📄 **Citation**
+## 📄 **Citation**
 
 If you use this code in your research, please cite our paper:
 
